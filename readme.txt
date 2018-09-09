@@ -8,3 +8,5 @@ Git is free software distributed under the GPL.
 
 Git has a mutable index called stage.
 Git tracks change.
+
+Creating a new brach is quick.
